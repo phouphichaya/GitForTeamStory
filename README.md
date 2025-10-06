@@ -21,7 +21,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 5. Someone found a **map**, but it had no directions.  
    ![map](./img/map.png)
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. “Let’s go to space!” shouted the pirate (although there was no pirate before this). <img src="./img/pirate.png">  
 
 7. A rocket blasted off, but at the same time the **time machine** broke down. <img src="./img/rocket.png">
 
