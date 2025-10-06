@@ -8,7 +8,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 ## Our Wonderful Story
 
 1. Once upon a time, there was a **castle**.  
-   ![castle](img1.png)
+   ![castle](./img/castle.png)
 
 2. Then suddenly, a **dragon**<img src="./img/dragon.png"> appeared… but maybe it was actually a **robot**?  
    (Nobody is sure yet.)
@@ -16,16 +16,16 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 3. The scientist shouted something very important but nobody wrote it down.  
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+   ![treasure chest](./img/treasure_open.png)
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+5. Someone found a **map**, but it had no directions.  
+   ![map](./img/map.png)
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. “Let’s go to space!” shouted the pirate (although there was no pirate before this). <img src="./img/pirate.png">  
 
 7. A rocket blasted off, but at the same time the **time machine** broke down. <img src="./img/rocket.png">
 
-8. The cat was supposed to talk here, but the line is missing.  
+8. The cat was supposed to talk here, but the line is missing.  <img src="./img/cat.png">
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
